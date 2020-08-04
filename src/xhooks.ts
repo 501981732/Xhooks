@@ -6,4 +6,4 @@
  * @Description: In User Settings Edit
  * @FilePath: /Xhooks/src/index.ts
  */
-export  {default as useToggle} from './useToggle'
+export { default as useToggle } from './useToggle'
